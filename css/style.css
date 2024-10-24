@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap")
+
+@import url("components/container.css");
+@import url("components/avatars.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Lora' serif;
+	font-size: 18px;
+	margin: 0px;
+	position: center;
+}
+
+h1, H2, h3 {
+	font-family: "helvetica;" sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: non;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
